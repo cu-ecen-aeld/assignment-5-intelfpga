@@ -1,2 +1,2 @@
-name: project_base
-desc: Example BR2_External_tree_1 contents
+name: PROJECT_BASE
+desc: Example BR2_External_PROJECT_BASE contents
